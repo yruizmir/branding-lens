@@ -8,7 +8,7 @@ const BrandLogoTopBarItem = () => (
 );
 
 export default getTopBarItemInjectableBunch({
-  id: "brainding-lens-brand-logo-top-bar-item",
+  id: "branding-lens-brand-logo-top-bar-item",
   side: "left",
   // High number so it lands after Lens's back/forward arrows.
   orderNumber: 1000,

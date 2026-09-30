@@ -1,4 +1,4 @@
-# brainding-lens — a Lens Desktop extension
+# branding-lens — a Lens Desktop extension
 
 > **You are developing a Lens Desktop extension.** This project is *not* a standalone Node app, a website, or a generic library — it is a plugin that runs inside the Lens Desktop application. Lens is a Kubernetes IDE built on Electron + React; the extension hooks into its dependency-injection container to add UI — sidebar items, status-bar items, preferences pages, commands, routes, and so on.
 

@@ -16,7 +16,7 @@ const readAsDataUrl = (file: File) =>
   });
 
 export const uploadLogoInjectable = getInjectable2({
-  id: "brainding-lens-upload-logo",
+  id: "branding-lens-upload-logo",
   consumptions: [showErrorNotificationInjectionToken, showSuccessNotificationInjectionToken],
   instantiate: (di) => {
     const getState = di.inject(brandLogoState.persistable);
@@ -45,7 +45,7 @@ export const uploadLogoInjectable = getInjectable2({
 });
 
 export const resetLogoInjectable = getInjectable2({
-  id: "brainding-lens-reset-logo",
+  id: "branding-lens-reset-logo",
   instantiate: (di) => {
     const getState = di.inject(brandLogoState.persistable);
 

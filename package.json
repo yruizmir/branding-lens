@@ -1,5 +1,5 @@
 {
-  "name": "brainding-lens",
+  "name": "branding-lens",
   "version": "0.1.0",
   "description": "Add the logo of your company, team, the infrastructure your clusters run on, or your reseller to Lens's top bar as your brand.",
   "keywords": [
@@ -15,7 +15,7 @@
   ],
   "lensExtension": {
     "icon": "assets/brand-icon.svg",
-    "banner": "assets/brand-banner.svg"
+    "banner": "assets/brand-banner-2.svg"
   },
   "scripts": {
     "build": "lens-types-check && lens-package-build --entry-point ./src/index.ts",

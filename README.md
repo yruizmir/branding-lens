@@ -1,4 +1,4 @@
-# brainding-lens
+# branding-lens
 
 Put your brand in Lens. Add the logo of your company, your team, the infrastructure your clusters run on, or your reseller to Lens's top bar, so everyone using Lens sees whose environment they are in.
 
@@ -10,7 +10,7 @@ Put your brand in Lens. Add the logo of your company, your team, the infrastruct
 
 ## Usage
 
-1. Open **Preferences → Extensions → brainding-lens**.
+1. Open **Preferences → Extensions → branding-lens**.
 2. Under **Top bar logo**, choose an image file.
 
 Logo size: it is shown 28px high and at most 160px wide. For a sharp result, upload an image 56px high (up to 320px wide) with a transparent background. SVG, PNG, WebP or JPEG, at most 256 KB. The top bar is dark in the dark theme, so pick a version of your logo that reads on a dark background.

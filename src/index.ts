@@ -3,8 +3,8 @@ import modulesWithInjectables from "./**/*.injectable.(ts|tsx)";
 import stylesheets from "./**/!(_*).(scss|css)";
 // import { placeholderStatusBarItemInjectable } from "./placeholder.injectable";
 
-export const braindingLensFeature = getFeature({
-  id: "brainding-lens",
+export const brandingLensFeature = getFeature({
+  id: "branding-lens",
   register: (di) => {
     // Auto-discovers every `*.injectable.(ts|tsx)` file under this directory and registers
     // it. Preferred over registering injectables one by one — adding a new injectable file

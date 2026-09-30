@@ -14,11 +14,12 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="600" fill="url(#bg)"/>
-  <ellipse cx="600" cy="300" rx="420" ry="190" fill="url(#glow)"/>
+  <ellipse cx="600" cy="300" rx="600" ry="260" fill="url(#glow)"/>
 
-  <text x="600" y="176" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Your brand in Lens</text>
+  <text x="600" y="150" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="88" font-weight="700" fill="#ffffff">Your brand in Lens</text>
 
   <!-- A Lens window's top bar, with the brand slot after the arrows -->
+  <g transform="translate(600 300) scale(1.4) translate(-600 -282)">
   <rect x="210" y="236" width="780" height="92" rx="16" fill="#1f2124" stroke="#3a3d42" stroke-width="2"/>
   <circle cx="254" cy="282" r="9" fill="#ff5f57"/>
   <circle cx="284" cy="282" r="9" fill="#febc2e"/>
@@ -33,6 +34,7 @@
   <rect x="836" y="266" width="32" height="32" rx="6" fill="#3a3d42"/>
   <circle cx="908" cy="282" r="16" fill="#e0823d"/>
   <rect x="940" y="266" width="32" height="32" rx="6" fill="#f2e27a"/>
+  </g>
 
-  <text x="600" y="410" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" fill="#c9d4e5">Company · Team · Infrastructure · Reseller</text>
+  <text x="600" y="490" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" fill="#c9d4e5">Company · Team · Infrastructure · Reseller</text>
 </svg>
